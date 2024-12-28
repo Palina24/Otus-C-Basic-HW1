@@ -1,0 +1,14 @@
+diff --git a/hello b/hello
+index 421cb5e..dad83ab 100755
+Binary files a/hello and b/hello differ
+diff --git a/hello.cpp b/hello.cpp
+index 882c5d0..686cc00 100644
+--- a/hello.cpp
++++ b/hello.cpp
+@@ -3,5 +3,6 @@
+ int main(){
+ 	
+ 	std::cout << "Hello, world!\n";
++	std::cout << "It is difficult to learn about Git\n";	
+ 	return 0;
+ }
